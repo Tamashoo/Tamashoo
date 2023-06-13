@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## アルバイト・インターン歴
 |  会社名  |  区分  |  職種  |  開始時期  |  終了時期  |
 | ---- | ---- | ---- | ---- | ---- |
-|  株式会社リソー教育  |  アルバイト  |  塾講師  |  2020/08  |  |
+
 
 ## 各種アカウント
 * AtCoder: https://atcoder.jp/users/tamasho
