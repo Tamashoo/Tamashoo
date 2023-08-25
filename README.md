@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## アルバイト・インターン歴
 |  会社名  |  区分  |  職種  |  開始時期  |  終了時期  |
 | ---- | ---- | ---- | ---- | ---- |
-
+| 楽天グループ株式会社 | インターン | バックエンドエンジニア | 2023/08/21 | 2023/08/25 |
 
 ## 各種アカウント
 * AtCoder: https://atcoder.jp/users/tamasho
