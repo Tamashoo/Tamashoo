@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Tamashoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamashoo&theme=vue-dark&show_icons=true)](https://github.com/Tamashoo/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamashoo&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Tamashoo/github-readme-stats)
 
 ## 学歴
 |  学校名  |  入学  |  卒業  |
