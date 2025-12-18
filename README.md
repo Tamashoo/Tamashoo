@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 ## Education
 | Degree | Institution | Period |
 | ---- | ---- | ---- |
-| Master’s Degree (Computer Science) | Yokohama National University, Graduate School of Environment and Information Sciences | Apr 2023 – Mar 2025 |
+| Bachelor’s Degree (Computer Science) | Yokohama National University | Apr 2019 – Mar 2023 |
+| Master’s Degree (Computer Science) | Yokohama National University | Apr 2023 – Mar 2025 |
 
 
 ### Major
