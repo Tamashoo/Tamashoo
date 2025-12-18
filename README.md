@@ -16,23 +16,23 @@ Here are some ideas to get you started:
 -->
 
 
-## 学歴
-|  学校名  |  入学  |  卒業  |
+## Education
+| Degree | Institution | Period |
 | ---- | ---- | ---- |
-|  神奈川県立柏陽高等学校  |  2016/04  |  2019/03  |
-|  横浜国立大学理工学部数物・電子情報系学科  |  2019/04  |  2023/03  |
-|  横浜国立大学大学院環境情報学府情報環境専攻  |  2023/04  |  2025/03 |
+| Master’s Degree (Computer Science) | Yokohama National University, Graduate School of Environment and Information Sciences | Apr 2023 – Mar 2025 |
 
-### 専攻
-* 大学では情報工学を専攻
-* 機械学習系の研究室に所属
 
-## アルバイト・インターン歴
-|  会社名  |  区分  |  職種  |  開始時期  |  終了時期  |
+### Major
+- Majored in Computer Science as an undergraduate student  
+- Member of a machine learning research laboratory
+
+## Work Experience (Part-time / Internships)
+| Company | Type | Position | Start | End |
 | ---- | ---- | ---- | ---- | ---- |
-| 楽天グループ株式会社 | インターン | バックエンドエンジニア | 2023/08/21 | 2023/08/25 |
-| 株式会社ナビタイムジャパン | インターン | バックエンドエンジニア | 2023/08/28 | 2023/09/08 |
-| 株式会社AppBrew | インターン | バックエンドエンジニア | 2023/10/18 | 2025/03 |
+| Rakuten Group, Inc. | Internship |  | Aug 21, 2023 | Aug 25, 2023 |
+| NAVITIME JAPAN Co., Ltd. | Internship |  | Aug 28, 2023 | Sep 8, 2023 |
+| AppBrew Inc. | Internship | Backend Engineer | Oct 18, 2023 | Mar 2025 |
+| Rakuten Group, Inc. | Full-time | Software Engineer | Apr 2025 | Present |
 
-## 各種アカウント
-* AtCoder: https://atcoder.jp/users/tamasho
+## Accounts
+- AtCoder: https://atcoder.jp/users/tamasho
