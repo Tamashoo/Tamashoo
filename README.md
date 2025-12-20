@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 | Master’s Degree (Computer Science) | Yokohama National University | Apr 2023 – Mar 2025 |
 
 
-### Major
-- Majored in Computer Science as an undergraduate student  
-- Member of a machine learning research laboratory
+### Research
+- Machine learning research laboratory
 
 ## Work Experience (Part-time / Internships)
 | Company | Type | Position | Start | End |
